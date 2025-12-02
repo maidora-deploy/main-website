@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/main-website/static/css/main.d1ccf680.css",
+    "main.js": "/main-website/static/js/main.ae7bfa41.js",
+    "static/js/453.44c20e82.chunk.js": "/main-website/static/js/453.44c20e82.chunk.js",
+    "static/media/professional-cleaning-service-person-using-vacuum-cleaner-office.jpg": "/main-website/static/media/professional-cleaning-service-person-using-vacuum-cleaner-office.395a5b8d7457fc81791a.jpg",
+    "static/media/profit-book.jpg": "/main-website/static/media/profit-book.fe777836cadbdca45764.jpg",
+    "static/media/full-shot-people-cleaning-building.jpg": "/main-website/static/media/full-shot-people-cleaning-building.d194a9baaec4c047e50f.jpg",
+    "static/media/twenty-four-support.jpg": "/main-website/static/media/twenty-four-support.9eeb59ed69ad2f44e2df.jpg",
+    "static/media/tranining.jpg": "/main-website/static/media/tranining.b699fb4bdcdcac4242fa.jpg",
+    "static/media/exclisve-partner.jpg": "/main-website/static/media/exclisve-partner.bffb39c6c53ea80593e9.jpg",
+    "static/media/medium-shot-people-cleaning-building.jpg": "/main-website/static/media/medium-shot-people-cleaning-building.cf61360be1843e2334d9.jpg",
+    "static/media/leads-gurantee.jpg": "/main-website/static/media/leads-gurantee.02947e875c0a656de0f1.jpg",
+    "static/media/trust.jpg": "/main-website/static/media/trust.4d80e66b5dc3dfb7dd19.jpg",
+    "static/media/handshake-man-woman.jpg": "/main-website/static/media/handshake-man-woman.1b6af0a83cdb7680a3b8.jpg",
+    "static/media/free-branding.jpg": "/main-website/static/media/free-branding.db9d939ef25c35bf54e1.jpg",
+    "static/media/business-team-meeting.jpg": "/main-website/static/media/business-team-meeting.d6b44a9b606aeb13418a.jpg",
+    "static/media/commision-rate.jpg": "/main-website/static/media/commision-rate.f69ab1072ee1853d6c44.jpg",
+    "static/media/logo.png": "/main-website/static/media/logo.962d1468586c453e3512.png",
+    "index.html": "/main-website/index.html",
+    "main.d1ccf680.css.map": "/main-website/static/css/main.d1ccf680.css.map",
+    "main.ae7bfa41.js.map": "/main-website/static/js/main.ae7bfa41.js.map",
+    "453.44c20e82.chunk.js.map": "/main-website/static/js/453.44c20e82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ccf680.css",
+    "static/js/main.ae7bfa41.js"
+  ]
+}
