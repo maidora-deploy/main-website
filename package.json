@@ -1,5 +1,6 @@
 {
   "name": "maidora",
+  "homepage": "https://maidora-deploy.github.io/main-website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
