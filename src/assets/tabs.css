@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.resource-page-template .tabs-wrap {width: 100%; max-width: 1200px; margin: 10px auto; font-family: Inter, sans-serif;}
+.resource-page-template .tabs-content {display: flex; flex-direction: column; gap: 40px;}
+.resource-page-template .tab-panel {background: #fff; border-radius: 12px; padding: 14px;}
+.resource-page-template .tab-panel h3 {margin-bottom: 16px; color: #282828; font-size: 44px; font-family: Inter, sans-serif;}
+.resource-page-template .row {display: flex; flex-wrap: wrap; gap: 20px; margin: 0px 0px;}
+.resource-page-template .col-md-4 {flex: 1 1 calc(33% - 20px); text-align: left; padding: 20px; box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05); border:1px solid #cccccc4a; overflow: hidden; border-radius: 32px;}
+.resource-page-template .col-md-4:hover{background: linear-gradient(90deg, rgba(0,166,126,0.07), rgba(0,166,126,0.02));}
+.resource-page-template .col-md-4 img {width: 100%; height: 221px; object-fit: cover; border-radius: 32px;}
+.resource-page-template .text-description{padding: 16px;}
+.resource-page-template .text-description h4 {margin: 10px 0 6px; font-size: 22px; color: #282828; font-family: Inter, sans-serif;}
+.resource-page-template .text-description p {color: #6b7280; font-size: 18px; margin: 13px 0px; display: -webkit-box; overflow: hidden; -webkit-line-clamp: 4; -webkit-box-orient: vertical;}
+.resource-page-template .col-md-4 > a{margin-left: 16px; margin-bottom: 16px; background-color: transparent; color:#00a67e; border: 0; outline: 0; font-size: 16px; text-transform: capitalize; font-weight: 500; display: flex; gap: 5px; align-items: center; justify-content: flex-end;}
+.resource-page-template .col-md-4 button:hover{background-color: transparent; color: #282828;}
+
+
