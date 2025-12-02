@@ -380,15 +380,20 @@ h1, h2, h3, h4, h5, h6{font-family: "Playfair Display", serif; margin: 0;}
 .faq-page-template .main-title h4{font-size: 18px; text-transform: uppercase; letter-spacing: 5px;}
 .faq-page-template .main-title h2{font-size: 52px; max-width: 750px;}
 
-
-
-
-
-
 /* responsive */
 @media (max-width: 560px) {
- 
-.home-section, .about-section, .service-section, .how-its-work, .why-choose-section, .latest-news-section, .footer{padding: 55px 25px}
+ .home-section, .about-section, .service-section, .how-its-work, .why-choose-section, .latest-news-section, .footer{padding: 25px 25px}
+ .home-page-template .home-section, .home-page-template .about-section, .home-page-template .service-section {padding: 45px 25px}
+ .home-page-template .about-section .container .col-6 .about-text-section{padding: 0;}
+ .home-page-template .home-section .container .row .col-6 h1{font-size: 38px;}
+ .home-page-template .service-section .service-btn{justify-content: flex-start;}
+ .home-page-template .about-section .container .col-6 h2{font-size: 30px;}
+ .home-page-template .latest-news-section h2, .home-page-template .how-its-work h2{font-size: 34px;}
+ .home-page-template .why-choose-section, .home-page-template .latest-news-section{padding: 25px;}
+ .home-page-template .why-choose-section .container .reasons .reason > h3{align-items: flex-start;}
+ .home-page-template .why-choose-section .container .text-container > h2, .home-page-template .service-section .service-row > h2{font-size: 34px;}
+ .home-page-template .service-section .service-btn{padding-top: 20px;}
+ .home-page-template .about-section .container .col-6 .btn-group{align-items: flex-start; max-width: max-content;}
 .home-section .container .row{flex-direction: column-reverse; gap: 20px;}
 .home-section .container .row .col-6, .about-section .container .row .col-6{max-width: 100%;}
 .about-section .container .col-6 img{margin: 20px 0;}
